@@ -1,5 +1,7 @@
 This is a meeting tracking demo app powered by next.js 🚀
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/ee356aea-5739-4544-ab6a-10db5c94bc92.svg?orgId=650162616495)](https://app.soluble.cloud/repos/details/github.com/james-leha/preschool-call-tracker?orgId=650162616495)  
+
 ## Getting Started
 First, ensure you have a setup with [node version 10.13 or greater](nodejs.org)
 
